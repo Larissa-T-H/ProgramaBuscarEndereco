@@ -1,0 +1,11 @@
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Aula41-Cep\bin\Debug\WindowsForms-Aula41-Cep.exe.config
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Aula41-Cep\bin\Debug\WindowsForms-Aula41-Cep.exe
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Aula41-Cep\bin\Debug\WindowsForms-Aula41-Cep.pdb
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Aula41-Cep\obj\Debug\WindowsForms-Aula41-Cep.csproj.AssemblyReference.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Aula41-Cep\obj\Debug\WindowsForms-Aula41-Cep.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Aula41-Cep\obj\Debug\WindowsForms_Aula41_Cep.Form1.resources
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Aula41-Cep\obj\Debug\WindowsForms_Aula41_Cep.Properties.Resources.resources
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Aula41-Cep\obj\Debug\WindowsForms-Aula41-Cep.csproj.GenerateResource.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Aula41-Cep\obj\Debug\WindowsForms-Aula41-Cep.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Aula41-Cep\obj\Debug\WindowsForms-Aula41-Cep.exe
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WindowsForms-Aula41-Cep\obj\Debug\WindowsForms-Aula41-Cep.pdb
